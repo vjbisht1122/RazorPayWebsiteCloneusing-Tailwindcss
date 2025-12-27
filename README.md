@@ -1,0 +1,1 @@
+I am practicing Tailwind CSS, so I created a demo (mini project) — a Razorpay clone — using HTML and Tailwind CSS
